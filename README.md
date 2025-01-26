@@ -1,4 +1,6 @@
-
+***Title of Project***
+ Classify Handwritten Digits
+Objective
 
 
 pip install numpy 
